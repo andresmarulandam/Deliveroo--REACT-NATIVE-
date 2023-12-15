@@ -6,8 +6,7 @@ export default function Categories() {
   return (
     <ScrollView
       contentContainerStyle={{
-        paddingHorizontal: 10,
-        paddingTop: 10,
+        padding: 8,
       }}
       horizontal
     >
